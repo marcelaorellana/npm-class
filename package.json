@@ -1,0 +1,21 @@
+{
+  "name": "npm-class",
+  "version": "1.0.0",
+  "description": "prueba de npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
